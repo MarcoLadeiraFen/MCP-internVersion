@@ -49,4 +49,6 @@ echo(text) → returns the same text
 
 > Add extra tools (e.g. reverse(text), timestamp(), or a mock riskScore)
 
+
+I have left a walkthrough guide to help get started and answer any main base questions you might have, copilot is allowed and encouraged!
 Impress me 😄
